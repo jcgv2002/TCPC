@@ -65,3 +65,4 @@ print(number)
 
 money = Euro.from_sum(16.758, 9.999) # returns an Euro object while calling a FixedFloat method decorated with @classmethod 
 print(money)
+

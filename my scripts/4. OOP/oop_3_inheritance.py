@@ -41,3 +41,4 @@ print(rolf.average())
 
 print(rolf.weekly_salary())
 
+

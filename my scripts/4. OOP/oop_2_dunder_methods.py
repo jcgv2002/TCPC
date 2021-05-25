@@ -65,3 +65,4 @@ class Club:
     # the club_name and count_of_players should be replaced by the according value of current object
     def __str__(self):
         return f"Club {self.name} with {len(self.players)} players"
+
