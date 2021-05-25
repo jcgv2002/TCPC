@@ -7,13 +7,13 @@ not_a_tuple = "Rolf"
 # -- Adding to a tuple --
 
 friends = ("Rolf", "Bob", "Anne")
-friends.append("Jen")  # ERROR!
+#  friends.append("Jen")  # ERROR!
 
 print(friends)  # ["Rolf", "Bob", "Anne", "Jen"]
 
 # -- Removing from a tuple --
 
-friends.remove("Bob")  # ERROR!
+#  friends.remove("Bob")  # ERROR!
 
 print(friends)  # ["Rolf", "Anne", "Jen"]
 
